@@ -244,7 +244,7 @@ const galleryItems = [
   },
   {
     id: 40,
-    image: "/40.jpg ",
+    image: "/411.jpg ",
     title: "A Night Life",
     description: "Reeperbahn, Hamburg, Germany"
   },
@@ -304,7 +304,7 @@ const galleryItems = [
   },
   {
     id: 50,
-    image: "/50.jpg ",
+    image: "/51.jpg ",
     title: "Closer Look of the Sushi",
     description: "Hamburg, Germany"
   }
