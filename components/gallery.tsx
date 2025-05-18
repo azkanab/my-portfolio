@@ -242,12 +242,12 @@ const galleryItems = [
     title: "A Night Life",
     description: "Reeperbahn, Hamburg, Germany"
   },
-  {
-    id: 40,
-    image: "/40.jpg ",
-    title: "A Night Life",
-    description: "Reeperbahn, Hamburg, Germany"
-  },
+  // {
+  //   id: 40,
+  //   image: "/40.jpg ",
+  //   title: "A Night Life",
+  //   description: "Reeperbahn, Hamburg, Germany"
+  // },
   {
     id: 41,
     image: "/41.jpg",
@@ -296,12 +296,12 @@ const galleryItems = [
     title: "Empty Benches by the Lake",
     description: "Alster, Hamburg, Germany"
   },
-  // {
-  //   id: 49,
-  //   image: "/49.jpg",
-  //   title: "Feeling Japanese in German",
-  //   description: "Hamburg, Germany"
-  // },
+  {
+    id: 49,
+    image: "/49.jpg",
+    title: "Feeling Japanese in German",
+    description: "Hamburg, Germany"
+  },
   // {
   //   id: 50,
   //   image: "/50.jpg ",
