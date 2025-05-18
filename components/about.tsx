@@ -74,7 +74,7 @@ export default function About() {
               >
                 Blibli.com
               </a>
-              {" "} with my team, as well as an earlier internship at another leading e-commerce platform, {""}
+              , as well as an earlier internship at another leading e-commerce platform, {""}
               <a
                 href="https://www.tokopedia.com"
                 target="_blank"
