@@ -365,6 +365,7 @@ export default function Gallery() {
                 alt={item.title}
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"
+                priority={item.id <= 20}
               />
 
               {/* Hover Caption Overlay */}
