@@ -244,7 +244,7 @@ const galleryItems = [
   },
   {
     id: 40,
-    image: "/411.jpg ",
+    image: "/40.jpg ",
     title: "A Night Life",
     description: "Reeperbahn, Hamburg, Germany"
   },
@@ -296,18 +296,18 @@ const galleryItems = [
     title: "Empty Benches by the Lake",
     description: "Alster, Hamburg, Germany"
   },
-  {
-    id: 49,
-    image: "/49.jpg",
-    title: "Feeling Japanese in German",
-    description: "Hamburg, Germany"
-  },
-  {
-    id: 50,
-    image: "/51.jpg ",
-    title: "Closer Look of the Sushi",
-    description: "Hamburg, Germany"
-  }
+  // {
+  //   id: 49,
+  //   image: "/49.jpg",
+  //   title: "Feeling Japanese in German",
+  //   description: "Hamburg, Germany"
+  // },
+  // {
+  //   id: 50,
+  //   image: "/50.jpg ",
+  //   title: "Closer Look of the Sushi",
+  //   description: "Hamburg, Germany"
+  // }
 ]
 
 export default function Gallery() {
