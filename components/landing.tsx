@@ -115,7 +115,7 @@ export default function Landing({ setPage }: Props) {
           showParagraph ? "opacity-100" : "opacity-0"
         }`}
       >
-        I’m a CS student with an interest in Distributed Systems and Cyber Security, experienced as a Frontend Engineer, and currently seeking internship opportunities as a Backend Engineer. In my free time, I enjoy photography and videography as my hobbies.
+        I’m a CS student with an interest in Distributed Systems, experienced as a Frontend Engineer, and currently seeking internship opportunities as a Backend Engineer. In my free time, I enjoy photography and videography as my hobbies.
       </p>
 
       <div
