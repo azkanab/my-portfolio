@@ -83,7 +83,7 @@ export default function About() {
               >
                 Tokopedia.com
               </a>
-              , during my third year of undergraduate studies. I'm also passionate about digital technology and its impact, with a particular interest in Distributed Systems. Currently, I'm excited about the possibility of contributing to and learning from dynamic teams through internship opportunities, particularly through Backend Engineer role.
+              , during my third year of undergraduate studies. I'm also passionate about digital technology and its impact, with a particular interest in Distributed Systems and Cyber Security. Currently, I'm excited about the possibility of contributing to and learning from dynamic teams through internship opportunities, particularly through Backend Engineer role.
             </p>
             <p className="text-gray-300">
               When I'm not coding, I enjoy getting lost in books, playing the piano, exploring new places, spending time with my friends, playing boardgames, and capturing moments through photography and videography. One of my dream destinations is Svalbard—I'd love to visit it someday! If you are interested, you can also check out some of my photos in the gallery on this site or on my Instagram {" "}
